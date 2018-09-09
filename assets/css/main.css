@@ -406,6 +406,14 @@ input, select, textarea {
 		border-bottom-color: rgba(144, 144, 144, 0.25);
 	}
 
+	time {
+		font-family: "Open Sans", Arial, Helvetica, sans-serif;
+		font-weight: 400;
+		font-size: 2rem;
+		line-height: 2;
+		color: #51CCA8;
+	}
+
 /* Row */
 
 	.row {
