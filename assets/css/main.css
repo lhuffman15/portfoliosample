@@ -277,7 +277,36 @@ input, select, textarea {
 	}
 
 	h5 {
+		{
 		font-size: 1rem;
+		font-style: italic;
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
+	}
+
+		@media screen and (max-width: 1280px) {
+
+			h5 {
+				font-size: 0.75rem;
+			}
+
+		}
+
+		@media screen and (max-width: 980px) {
+
+			h5 {
+				font-size: .75rem;
+			}
+
+		}
+
+		@media screen and (max-width: 736px) {
+
+			h5 {
+				font-size: .75rem;
+			}
+
+		}
 	}
 
 	h6 {
