@@ -5284,7 +5284,7 @@ input, select, textarea {
 			transition-delay: 0.5s;
 			content: '';
 			background-color: #1e2731;
-			opacity: 0.85;
+			opacity: 0.65;
 			position: absolute;
 			top: 0;
 			left: 0;
@@ -5308,7 +5308,7 @@ input, select, textarea {
 
 			#banner h1:after {
 				content: '';
-				background-color: #ffffff;
+				background-color: #51CCA8;
 				display: block;
 				height: 3px;
 				margin: 2rem auto;
